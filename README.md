@@ -12,7 +12,7 @@ The repository is organized into three main components:
 ---
 
 ## 📁 Repository Structure
-
+```text
 SENSY/
 │
 ├── dataset/
@@ -39,7 +39,7 @@ SENSY/
 │   └── main.py                        # Full training and evaluation pipeline for the SENSY classifier
 │
 └── README.md
-
+```
 ---
 
 ## Datasets
