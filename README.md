@@ -1,4 +1,4 @@
-# Online Appendix — Prompt Sensitiveness in LLMs
+# Online Appendix — Bias Ahead: Sensitive Prompts as Early Warnings for Fairness in Large Language Models
 
 This repository contains the complete online appendix for the study
 **“Prompt Sensitiveness in Large Language Models”**, including datasets, scripts, experimental configurations, and reproducibility material for RQ1 and RQ2.
